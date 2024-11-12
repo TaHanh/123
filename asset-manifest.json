@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.d10a1ee8.css",
-    "main.js": "/static/js/main.7c116f0a.js",
+    "main.css": "/static/css/main.6906ce23.css",
+    "main.js": "/static/js/main.ee559a0b.js",
     "static/js/453.2a82e7ac.chunk.js": "/static/js/453.2a82e7ac.chunk.js",
-    "static/media/TAN_1953.jpg": "/static/media/TAN_1953.5ad067231da2a8827763.jpg",
     "static/media/60-90_0977.jpg": "/static/media/60-90_0977.6f1bba9ba8af99f057e2.jpg",
+    "static/media/TAN_1953.jpg": "/static/media/TAN_1953.e7c6adbb16217ce57a15.jpg",
     "static/media/IMG_5845.jpg": "/static/media/IMG_5845.7a78c41eea578286fff8.jpg",
     "static/media/TAN_1951.jpg": "/static/media/TAN_1951.27a41d20c5fa01ad8f2e.jpg",
     "static/media/TAN_1602.jpg": "/static/media/TAN_1602.730f99466ae53e4e5b4b.jpg",
@@ -23,12 +23,12 @@
     "static/media/bank_codau.jpg": "/static/media/bank_codau.06511b2d1074a415ef62.jpg",
     "static/media/bank_chure.jpg": "/static/media/bank_chure.a83a52f9d1c26df23cc1.jpg",
     "index.html": "/index.html",
-    "main.d10a1ee8.css.map": "/static/css/main.d10a1ee8.css.map",
-    "main.7c116f0a.js.map": "/static/js/main.7c116f0a.js.map",
+    "main.6906ce23.css.map": "/static/css/main.6906ce23.css.map",
+    "main.ee559a0b.js.map": "/static/js/main.ee559a0b.js.map",
     "453.2a82e7ac.chunk.js.map": "/static/js/453.2a82e7ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.d10a1ee8.css",
-    "static/js/main.7c116f0a.js"
+    "static/css/main.6906ce23.css",
+    "static/js/main.ee559a0b.js"
   ]
 }
