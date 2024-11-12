@@ -1,18 +1,34 @@
 {
   "files": {
-    "main.css": "/static/css/main.adefa816.css",
-    "main.js": "/static/js/main.22988b8a.js",
-    "static/js/453.cfd59cba.chunk.js": "/static/js/453.cfd59cba.chunk.js",
-    "static/media/TAN_1953.JPG": "/static/media/TAN_1953.47aa7b5803a56fe5c54a.JPG",
-    "static/media/TAN_2533.JPG": "/static/media/TAN_2533.3e1cfa08d05d5077c989.JPG",
-    "static/media/TAN_1462.JPG": "/static/media/TAN_1462.731b82f22d79f1b844a1.JPG",
+    "main.css": "/static/css/main.3f6aef40.css",
+    "main.js": "/static/js/main.296b85c1.js",
+    "static/js/453.2a82e7ac.chunk.js": "/static/js/453.2a82e7ac.chunk.js",
+    "static/media/TAN_1953.jpg": "/static/media/TAN_1953.5ad067231da2a8827763.jpg",
+    "static/media/60-90_0977.jpg": "/static/media/60-90_0977.6f1bba9ba8af99f057e2.jpg",
+    "static/media/IMG_5845.jpg": "/static/media/IMG_5845.7a78c41eea578286fff8.jpg",
+    "static/media/TAN_1951.jpg": "/static/media/TAN_1951.27a41d20c5fa01ad8f2e.jpg",
+    "static/media/TAN_1602.jpg": "/static/media/TAN_1602.730f99466ae53e4e5b4b.jpg",
+    "static/media/TAN_1994.jpg": "/static/media/TAN_1994.4ac5efaa0a7c107339b4.jpg",
+    "static/media/TAN_1044.jpg": "/static/media/TAN_1044.7a9b34828e00bd0c9c1f.jpg",
+    "static/media/TAN_1075.jpg": "/static/media/TAN_1075.6c93f0867c8dd54e613c.jpg",
+    "static/media/chure.jpg": "/static/media/chure.176fdb37edde7a13ed43.jpg",
+    "static/media/TAN_1917.jpg": "/static/media/TAN_1917.96e5ddd89fe99de30338.jpg",
+    "static/media/TAN_1288.jpg": "/static/media/TAN_1288.d7c1858bc6bf72c11e0e.jpg",
+    "static/media/TAN_2533.jpg": "/static/media/TAN_2533.601d4786893c7ef4831a.jpg",
+    "static/media/TAN_2322.jpg": "/static/media/TAN_2322.77dd3da780534bb0c274.jpg",
+    "static/media/TAN_2206.jpg": "/static/media/TAN_2206.7007c1f3eb36ca5d3a00.jpg",
+    "static/media/calendar.png": "/static/media/calendar.f9ec320b38353efb29ce.png",
+    "static/media/hearts.png": "/static/media/hearts.894497ca02bf45b6784a.png",
+    "static/media/codau.jpg": "/static/media/codau.622960b60f49abafb8c7.jpg",
+    "static/media/bank_codau.jpg": "/static/media/bank_codau.06511b2d1074a415ef62.jpg",
+    "static/media/bank_chure.jpg": "/static/media/bank_chure.a83a52f9d1c26df23cc1.jpg",
     "index.html": "/index.html",
-    "main.adefa816.css.map": "/static/css/main.adefa816.css.map",
-    "main.22988b8a.js.map": "/static/js/main.22988b8a.js.map",
-    "453.cfd59cba.chunk.js.map": "/static/js/453.cfd59cba.chunk.js.map"
+    "main.3f6aef40.css.map": "/static/css/main.3f6aef40.css.map",
+    "main.296b85c1.js.map": "/static/js/main.296b85c1.js.map",
+    "453.2a82e7ac.chunk.js.map": "/static/js/453.2a82e7ac.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.adefa816.css",
-    "static/js/main.22988b8a.js"
+    "static/css/main.3f6aef40.css",
+    "static/js/main.296b85c1.js"
   ]
 }
