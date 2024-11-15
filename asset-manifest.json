@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.97960028.css",
-    "main.js": "/static/js/main.f0f7ae32.js",
+    "main.js": "/static/js/main.bd143c3e.js",
     "static/js/453.2a82e7ac.chunk.js": "/static/js/453.2a82e7ac.chunk.js",
     "static/media/60-90_0977.jpg": "/static/media/60-90_0977.6f1bba9ba8af99f057e2.jpg",
     "static/media/TAN_1953.jpg": "/static/media/TAN_1953.e7c6adbb16217ce57a15.jpg",
@@ -9,6 +9,7 @@
     "static/media/TAN_1951.jpg": "/static/media/TAN_1951.27a41d20c5fa01ad8f2e.jpg",
     "static/media/TAN_1602.jpg": "/static/media/TAN_1602.730f99466ae53e4e5b4b.jpg",
     "static/media/TAN_1994.jpg": "/static/media/TAN_1994.4ac5efaa0a7c107339b4.jpg",
+    "static/media/save-the-date.png": "/static/media/save-the-date.180ffb4cc296a6cf7854.png",
     "static/media/TAN_1044.jpg": "/static/media/TAN_1044.7a9b34828e00bd0c9c1f.jpg",
     "static/media/TAN_1075.jpg": "/static/media/TAN_1075.6c93f0867c8dd54e613c.jpg",
     "static/media/chure.jpg": "/static/media/chure.176fdb37edde7a13ed43.jpg",
@@ -24,11 +25,11 @@
     "static/media/bank_chure.jpg": "/static/media/bank_chure.a83a52f9d1c26df23cc1.jpg",
     "index.html": "/index.html",
     "main.97960028.css.map": "/static/css/main.97960028.css.map",
-    "main.f0f7ae32.js.map": "/static/js/main.f0f7ae32.js.map",
+    "main.bd143c3e.js.map": "/static/js/main.bd143c3e.js.map",
     "453.2a82e7ac.chunk.js.map": "/static/js/453.2a82e7ac.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97960028.css",
-    "static/js/main.f0f7ae32.js"
+    "static/js/main.bd143c3e.js"
   ]
 }
